@@ -15,6 +15,7 @@ export default class extends Component {
   render () {
     return (
       <div>
+        Wohoooo
         <div>
           {this.props.title}
         </div>
